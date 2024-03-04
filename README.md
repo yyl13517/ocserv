@@ -20,7 +20,6 @@ PID_FILE = /var/run/ocserv.pid
 
 ## 注意！
 本脚本仅支持Debian和Ubuntu系统！
-
 ## 其他
 如遇到ping通但无法上网的情况，请尝试如下操作
 ```
