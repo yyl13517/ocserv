@@ -8,7 +8,7 @@ export PATH
 #	Description: ocserv AnyConnect
 #	Version: 1.0.6
 #=================================================
-sh_ver="1.0.6"
+sh_ver="1.0.7"
 file="/usr/local/sbin/ocserv"
 conf_file="/etc/ocserv"
 conf="/etc/ocserv/ocserv.conf"
