@@ -6,7 +6,7 @@ export PATH
 #=================================================
 #	System Required: Debian/Ubuntu
 #	Description: ocserv AnyConnect
-#	Version: 1.0.6
+#	Version: 1.0.7
 #=================================================
 sh_ver="1.0.7"
 file="/usr/local/sbin/ocserv"
