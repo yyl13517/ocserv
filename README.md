@@ -4,7 +4,7 @@
 ## 操作
 ### 下载 安装
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/lllvcs/ocserv/master/ocserv.sh && bash ocserv.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/lllvcs/ocserv/master/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
 ```
 ### 相关配置
 ```
