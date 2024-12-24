@@ -14,7 +14,7 @@ conf_file = /etc/ocserv
 conf = /etc/ocserv/ocserv.conf
 passwd_file = /etc/ocserv/ocpasswd
 log_file = /tmp/ocserv.log
-ocserv_ver = 0.12.3
+ocserv_ver = 1.2.4
 PID_FILE = /var/run/ocserv.pid
 ```
 
